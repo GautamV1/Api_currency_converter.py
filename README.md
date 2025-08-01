@@ -1,5 +1,5 @@
 # Currency Converter:
-Asimple live currency converter built with python using the ** Frankfurter API**
+A live currency converter built with python using the ** Frankfurter API**
 Deployed and tested
 
 # Features :
